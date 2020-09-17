@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/mikey/level1_space/spaceScene.unity
+  isLoaded: 1
+  isActive: 1
